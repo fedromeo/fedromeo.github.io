@@ -92,7 +92,7 @@ html {
 }
 
 body {
-  background: rgb(58, 83, 71);
+  background: #022601;
 }
 body.is-preload *, body.is-preload *:before, body.is-preload *:after {
   -webkit-animation: none !important;
@@ -126,7 +126,7 @@ html {
 }
 
 body {
-  background-color: rgb(58, 83, 71);
+  background-color: #022601;
   color: rgb(241, 241, 241);
 }
 
@@ -1740,7 +1740,7 @@ button.primary,
 .button.primary {
   background-color: rgb(241, 241, 241);
   box-shadow: none;
-  color: rgb(58, 83, 71) !important;
+  color: #022601 !important;
 }
 input[type=submit].primary:hover,
 input[type=reset].primary:hover,
@@ -1995,7 +1995,7 @@ select {
 }
 select option {
   color: rgb(241, 241, 241);
-  background: rgb(58, 83, 71);
+  background: #022601;
 }
 
 input[type=checkbox] + label,
@@ -2010,7 +2010,7 @@ input[type=checkbox]:checked + label:before,
 input[type=radio]:checked + label:before {
   background-color: rgb(241, 241, 241);
   border-color: rgb(241, 241, 241);
-  color: rgb(58, 83, 71);
+  color: #022601;
 }
 input[type=checkbox]:focus + label:before,
 input[type=radio]:focus + label:before {
@@ -3345,7 +3345,7 @@ body.is-preload .banner.onload-image-fade-in .image img {
   background-color: rgba(241, 241, 241, 0.125);
 }
 .banner.invert .image {
-  background-color: rgba(58, 83, 71, 0.125);
+  background-color: rgba(2, 38, 1, 0.125);
 }
 
 .banner.style4 .image {
@@ -4329,7 +4329,7 @@ body.is-preload .spotlight.onload-image-fade-in .image img {
   background-color: rgba(241, 241, 241, 0.125);
 }
 .spotlight.invert .image {
-  background-color: rgba(58, 83, 71, 0.125);
+  background-color: rgba(2, 38, 1, 0.125);
 }
 
 .spotlight.style3 .image {
@@ -4588,7 +4588,7 @@ body.is-preload .gallery.onload-fade-in article .image img {
 /* Gallery (style1) */
 .gallery.style1 {
   background-color: rgb(241, 241, 241);
-  color: rgb(58, 83, 71);
+  color: #022601;
   -moz-align-items: center;
   -ms-align-items: center;
   align-items: center;
@@ -4604,19 +4604,19 @@ body.is-preload .gallery.onload-fade-in article .image img {
   background-color: transparent;
 }
 .gallery.style1 input, .gallery.style1 select, .gallery.style1 textarea {
-  color: rgb(58, 83, 71);
+  color: #022601;
 }
 .gallery.style1 a {
-  color: rgb(58, 83, 71);
+  color: #022601;
 }
 .gallery.style1 a:hover {
   color: rgb(181, 136, 95);
 }
 .gallery.style1 strong, .gallery.style1 b {
-  color: rgb(58, 83, 71);
+  color: #022601;
 }
 .gallery.style1 h1, .gallery.style1 h2, .gallery.style1 h3, .gallery.style1 h4, .gallery.style1 h5, .gallery.style1 h6 {
-  color: rgb(58, 83, 71);
+  color: #022601;
 }
 .gallery.style1 blockquote {
   border-left-color: rgb(58, 83, 71);
@@ -4635,7 +4635,7 @@ body.is-preload .gallery.onload-fade-in article .image img {
 .gallery.style1 .button {
   background-color: transparent;
   box-shadow: inset 0 0 0 1px rgb(58, 83, 71);
-  color: rgb(58, 83, 71) !important;
+  color: #022601 !important;
 }
 .gallery.style1 input[type=submit]:hover,
 .gallery.style1 input[type=reset]:hover,
@@ -4659,7 +4659,7 @@ body.is-preload .gallery.onload-fade-in article .image img {
 .gallery.style1 input[type=button].primary,
 .gallery.style1 button.primary,
 .gallery.style1 .button.primary {
-  background-color: rgb(58, 83, 71);
+  background-color: #022601;
   box-shadow: none;
   color: rgb(241, 241, 241) !important;
 }
@@ -4836,7 +4836,7 @@ body.is-preload .gallery.onload-fade-in article .image img {
 /* Gallery (style2) */
 .gallery.style2 {
   background-color: rgb(241, 241, 241);
-  color: rgb(58, 83, 71);
+  color: #022601;
   display: -moz-flex;
   display: -ms-flex;
   display: flex;
@@ -4845,19 +4845,19 @@ body.is-preload .gallery.onload-fade-in article .image img {
   background-color: transparent;
 }
 .gallery.style2 input, .gallery.style2 select, .gallery.style2 textarea {
-  color: rgb(58, 83, 71);
+  color: #022601;
 }
 .gallery.style2 a {
-  color: rgb(58, 83, 71);
+  color: #022601;
 }
 .gallery.style2 a:hover {
   color: rgb(181, 136, 95);
 }
 .gallery.style2 strong, .gallery.style2 b {
-  color: rgb(58, 83, 71);
+  color: #022601;
 }
 .gallery.style2 h1, .gallery.style2 h2, .gallery.style2 h3, .gallery.style2 h4, .gallery.style2 h5, .gallery.style2 h6 {
-  color: rgb(58, 83, 71);
+  color: #022601;
 }
 .gallery.style2 blockquote {
   border-left-color: rgb(58, 83, 71);
@@ -4876,7 +4876,7 @@ body.is-preload .gallery.onload-fade-in article .image img {
 .gallery.style2 .button {
   background-color: transparent;
   box-shadow: inset 0 0 0 1px rgb(58, 83, 71);
-  color: rgb(58, 83, 71) !important;
+  color: #022601 !important;
 }
 .gallery.style2 input[type=submit]:hover,
 .gallery.style2 input[type=reset]:hover,
@@ -4900,7 +4900,7 @@ body.is-preload .gallery.onload-fade-in article .image img {
 .gallery.style2 input[type=button].primary,
 .gallery.style2 button.primary,
 .gallery.style2 .button.primary {
-  background-color: rgb(58, 83, 71);
+  background-color: #022601;
   box-shadow: none;
   color: rgb(241, 241, 241) !important;
 }
@@ -5142,7 +5142,7 @@ body.is-preload .gallery.onload-fade-in article .image img {
   width: 4rem;
   height: 4rem;
   margin: -2rem 0 0 -2rem;
-  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' width='96px' height='96px' viewBox='0 0 96 96' zoomAndPan='disable'%3E%3Cstyle%3Ecircle %7Bfill: transparent%3B stroke: rgb(58, 83, 71)%3B stroke-width: 1.5px%3B %7D%3C/style%3E%3Cdefs%3E%3CclipPath id='corner'%3E%3Cpolygon points='0,0 48,0 48,48 96,48 96,96 0,96' /%3E%3C/clipPath%3E%3C/defs%3E%3Cg clip-path='url(%23corner)'%3E%3Ccircle cx='48' cy='48' r='32'/%3E%3C/g%3E%3C/svg%3E");
+  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' width='96px' height='96px' viewBox='0 0 96 96' zoomAndPan='disable'%3E%3Cstyle%3Ecircle %7Bfill: transparent%3B stroke: %23022601%3B stroke-width: 1.5px%3B %7D%3C/style%3E%3Cdefs%3E%3CclipPath id='corner'%3E%3Cpolygon points='0,0 48,0 48,48 96,48 96,96 0,96' /%3E%3C/clipPath%3E%3C/defs%3E%3Cg clip-path='url(%23corner)'%3E%3Ccircle cx='48' cy='48' r='32'/%3E%3C/g%3E%3C/svg%3E");
   background-position: center;
   background-repeat: no-repeat;
   background-size: 4rem;
@@ -5157,7 +5157,7 @@ body.is-preload .gallery.onload-fade-in article .image img {
   width: 4rem;
   height: 4rem;
   cursor: pointer;
-  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' width='64px' height='64px' viewBox='0 0 64 64' zoomAndPan='disable'%3E%3Cstyle%3Eline %7Bstroke: rgb(58, 83, 71)%3Bstroke-width: 1.5px%3B%7D%3C/style%3E%3Cline x1='20' y1='20' x2='44' y2='44' /%3E%3Cline x1='20' y1='44' x2='44' y2='20' /%3E%3C/svg%3E");
+  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' width='64px' height='64px' viewBox='0 0 64 64' zoomAndPan='disable'%3E%3Cstyle%3Eline %7Bstroke: %23022601%3Bstroke-width: 1.5px%3B%7D%3C/style%3E%3Cline x1='20' y1='20' x2='44' y2='44' /%3E%3Cline x1='20' y1='44' x2='44' y2='20' /%3E%3C/svg%3E");
   background-position: center;
   background-repeat: no-repeat;
   background-size: 3rem;
@@ -5242,7 +5242,7 @@ body.is-preload .gallery.onload-fade-in article .image img {
 }
 .wrapper.style2 > .inner {
   padding: 5.25rem 3.5rem 3.25rem 3.5rem;
-  background-color: rgb(58, 83, 71);
+  background-color: #022601;
   border-radius: 0.5rem;
   margin: 0 auto;
   max-width: 100%;
@@ -5888,22 +5888,22 @@ body.is-preload .items.onload-fade-in > * > .inner {
 }
 #wrapper > .invert {
   background-color: rgb(241, 241, 241);
-  color: rgb(58, 83, 71);
+  color: #022601;
 }
 #wrapper > .invert input, #wrapper > .invert select, #wrapper > .invert textarea {
-  color: rgb(58, 83, 71);
+  color: #022601;
 }
 #wrapper > .invert a {
-  color: rgb(58, 83, 71);
+  color: #022601;
 }
 #wrapper > .invert a:hover {
   color: rgb(181, 136, 95);
 }
 #wrapper > .invert strong, #wrapper > .invert b {
-  color: rgb(58, 83, 71);
+  color: #022601;
 }
 #wrapper > .invert h1, #wrapper > .invert h2, #wrapper > .invert h3, #wrapper > .invert h4, #wrapper > .invert h5, #wrapper > .invert h6 {
-  color: rgb(58, 83, 71);
+  color: #022601;
 }
 #wrapper > .invert blockquote {
   border-left-color: rgb(58, 83, 71);
@@ -5925,7 +5925,7 @@ body.is-preload .items.onload-fade-in > * > .inner {
 #wrapper > .invert .button {
   background-color: transparent;
   box-shadow: inset 0 0 0 1px rgb(58, 83, 71);
-  color: rgb(58, 83, 71) !important;
+  color: #022601 !important;
 }
 #wrapper > .invert input[type=submit]:hover,
 #wrapper > .invert input[type=reset]:hover,
@@ -5949,7 +5949,7 @@ body.is-preload .items.onload-fade-in > * > .inner {
 #wrapper > .invert input[type=button].primary,
 #wrapper > .invert button.primary,
 #wrapper > .invert .button.primary {
-  background-color: rgb(58, 83, 71);
+  background-color: #022601;
   box-shadow: none;
   color: rgb(241, 241, 241) !important;
 }
@@ -5968,7 +5968,7 @@ body.is-preload .items.onload-fade-in > * > .inner {
   background-color: #936a44;
 }
 #wrapper > .invert label {
-  color: rgb(58, 83, 71);
+  color: #022601;
 }
 #wrapper > .invert input[type=text],
 #wrapper > .invert input[type=password],
@@ -5996,11 +5996,11 @@ body.is-preload .items.onload-fade-in > * > .inner {
 }
 #wrapper > .invert select option {
   color: rgb(241, 241, 241);
-  background: rgb(58, 83, 71);
+  background: #022601;
 }
 #wrapper > .invert input[type=checkbox] + label,
 #wrapper > .invert input[type=radio] + label {
-  color: rgb(58, 83, 71);
+  color: #022601;
 }
 #wrapper > .invert input[type=checkbox] + label:before,
 #wrapper > .invert input[type=radio] + label:before {
@@ -6008,8 +6008,8 @@ body.is-preload .items.onload-fade-in > * > .inner {
 }
 #wrapper > .invert input[type=checkbox]:checked + label:before,
 #wrapper > .invert input[type=radio]:checked + label:before {
-  background-color: rgb(58, 83, 71);
-  border-color: rgb(58, 83, 71);
+  background-color: #022601;
+  border-color: #022601;
   color: rgb(241, 241, 241);
 }
 #wrapper > .invert input[type=checkbox]:focus + label:before,
@@ -6018,16 +6018,16 @@ body.is-preload .items.onload-fade-in > * > .inner {
   box-shadow: 0 0 0 1px rgb(181, 136, 95);
 }
 #wrapper > .invert ::-webkit-input-placeholder {
-  color: rgb(58, 83, 71) !important;
+  color: #022601 !important;
 }
 #wrapper > .invert :-moz-placeholder {
-  color: rgb(58, 83, 71) !important;
+  color: #022601 !important;
 }
 #wrapper > .invert ::-moz-placeholder {
-  color: rgb(58, 83, 71) !important;
+  color: #022601 !important;
 }
 #wrapper > .invert :-ms-input-placeholder {
-  color: rgb(58, 83, 71) !important;
+  color: #022601 !important;
 }
 #wrapper > .invert .icon.style2:before {
   box-shadow: inset 0 0 0 1px rgb(58, 83, 71);
@@ -6045,7 +6045,7 @@ body.is-preload .items.onload-fade-in > * > .inner {
   border-top-color: rgb(58, 83, 71);
 }
 #wrapper > .invert header p {
-  color: rgb(58, 83, 71);
+  color: #022601;
 }
 #wrapper > .invert table tbody tr {
   border-color: rgb(58, 83, 71);
@@ -6057,7 +6057,7 @@ body.is-preload .items.onload-fade-in > * > .inner {
   background-color: rgba(58, 83, 71, 0.125) !important;
 }
 #wrapper > .invert table th {
-  color: rgb(58, 83, 71);
+  color: #022601;
 }
 #wrapper > .invert table thead {
   border-bottom-color: rgb(58, 83, 71);
@@ -6072,7 +6072,7 @@ body.is-preload .items.onload-fade-in > * > .inner {
   background-color: transparent;
 }
 #wrapper > .invert .banner .image {
-  background-color: rgba(58, 83, 71, 0.125);
+  background-color: rgba(2, 38, 1, 0.125);
 }
 #wrapper > .invert .banner.style4 .image {
   border-color: rgb(58, 83, 71);
@@ -6095,7 +6095,7 @@ body.is-preload .items.onload-fade-in > * > .inner {
   background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' width='64px' height='32px' viewBox='0 0 64 32' zoomAndPan='disable'%3E%3Cstyle%3Erect %7Bfill: transparent%3B stroke: rgb(58, 83, 71)%3B stroke-width: 1px%3B %7D%3C/style%3E%3Crect rx='4' ry='4' x='6' y='4' width='52' height='24' vector-effect='non-scaling-stroke' /%3E%3C/svg%3E");
 }
 #wrapper > .invert .spotlight .image {
-  background-color: rgba(58, 83, 71, 0.125);
+  background-color: rgba(2, 38, 1, 0.125);
 }
 #wrapper > .invert .spotlight.style3 .image {
   border-color: rgb(58, 83, 71);
@@ -6118,7 +6118,7 @@ body.is-preload .items.onload-fade-in > * > .inner {
   background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' width='64px' height='32px' viewBox='0 0 64 32' zoomAndPan='disable'%3E%3Cstyle%3Erect %7Bfill: transparent%3B stroke: rgb(58, 83, 71)%3B stroke-width: 1px%3B %7D%3C/style%3E%3Crect rx='4' ry='4' x='6' y='4' width='52' height='24' vector-effect='non-scaling-stroke' /%3E%3C/svg%3E");
 }
 #wrapper > .invert .gallery article .image {
-  background-color: rgba(58, 83, 71, 0.125);
+  background-color: rgba(2, 38, 1, 0.125);
 }
 #wrapper > .invert .items.style1 > * {
   border-color: rgb(58, 83, 71);

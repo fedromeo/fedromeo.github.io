@@ -58,16 +58,16 @@
 
 		bg:					  #022601,
 		bg-alt:				#eeeeee,
-		fg:					  rgb(241, 241, 241),
-		fg-bold:			rgb(241, 241, 241),
-		fg-light:			rgba(241, 241, 241, 0.75),
-		border:				rgba(241, 241, 241, 0.2),
-		border-alt:			rgba(241, 241, 241, 0.075),
-		border-bg:			rgba(241, 241, 241, 0.05),
-		accent:				rgb(181, 136, 95),
+		fg:					  #F2F2F2,
+		fg-bold:			#F2F2F2,
+		fg-light:			rgba(242, 242, 242, 0.75),
+		border:				rgba(242, 242, 242, 0.2),
+		border-alt:			rgba(242, 242, 242, 0.075),
+		border-bg:			rgba(242, 242, 242, 0.05),
+		accent:				#D97E4A,
 
 		invert: (
-			bg:				rgb(241, 241, 241),
+			bg:				#F2F2F2,
 			bg-alt:			#222222,
 			fg:				#022601,
 			fg-bold:		#022601,
@@ -75,6 +75,6 @@
 			border:			rgba(58, 83, 71,1.0),
 			border-alt:		rgba(58, 83, 71,0.125),
 			border-bg:		rgba(58, 83, 71,0.125),
-			accent:			rgb(181, 136, 95)
+			accent:			#D97E4A
 		),
 	);

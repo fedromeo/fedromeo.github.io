@@ -92,7 +92,7 @@ html {
 }
 
 body {
-  background: #022601;
+  background: #285026;
 }
 body.is-preload *, body.is-preload *:before, body.is-preload *:after {
   -webkit-animation: none !important;
@@ -126,7 +126,7 @@ html {
 }
 
 body {
-  background-color: #022601;
+  background-color: #285026;
   color: #F2F2F2;
 }
 
@@ -1740,7 +1740,7 @@ button.primary,
 .button.primary {
   background-color: #F2F2F2;
   box-shadow: none;
-  color: #022601 !important;
+  color: #285026 !important;
 }
 input[type=submit].primary:hover,
 input[type=reset].primary:hover,
@@ -1995,7 +1995,7 @@ select {
 }
 select option {
   color: #F2F2F2;
-  background: #022601;
+  background: #285026;
 }
 
 input[type=checkbox] + label,
@@ -2010,7 +2010,7 @@ input[type=checkbox]:checked + label:before,
 input[type=radio]:checked + label:before {
   background-color: #F2F2F2;
   border-color: #F2F2F2;
-  color: #022601;
+  color: #285026;
 }
 input[type=checkbox]:focus + label:before,
 input[type=radio]:focus + label:before {
@@ -5242,7 +5242,7 @@ body.is-preload .gallery.onload-fade-in article .image img {
 }
 .wrapper.style2 > .inner {
   padding: 5.25rem 3.5rem 3.25rem 3.5rem;
-  background-color: #022601;
+  background-color: #285026;
   border-radius: 0.5rem;
   margin: 0 auto;
   max-width: 100%;
@@ -5996,7 +5996,7 @@ body.is-preload .items.onload-fade-in > * > .inner {
 }
 #wrapper > .invert select option {
   color: #F2F2F2;
-  background: #022601;
+  background: #285026;
 }
 #wrapper > .invert input[type=checkbox] + label,
 #wrapper > .invert input[type=radio] + label {
